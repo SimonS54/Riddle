@@ -1,0 +1,28 @@
+.level {
+    margin: 20px;
+    padding: 20px;
+    background-color: #444;
+    border-radius: 10px;
+    max-width: 500px;
+    width: 100%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .level p {
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+  }
+  
+  .level input {
+    padding: 10px;
+    font-size: 1.25rem;
+    width: calc(100% - 22px);
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .level button {
+    font-size: 1.25rem;
+  }
+  

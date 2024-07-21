@@ -1,0 +1,26 @@
+.game-board {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .game-over {
+    text-align: center;
+  }
+  
+  .game-over h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .game-over p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .game-over button {
+    font-size: 1.5rem;
+  }
+  
